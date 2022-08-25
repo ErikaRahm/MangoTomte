@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ErikaRahm
 - 👀 I’m interested in gaming and my family and friends
-- 🌱 I’m currently learning Git
+- 🌱 I’m currently learning Git 
 - 📫 How to reach me is at my email Raffelina84@outlook.com
+- My big hobby is my Axolotl Örjan & Tony and all my fish
 
 <!---
 ErikaRahm/ErikaRahm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
