@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: orange;
+}
+
+h1 {
+  color: green;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>My journey to become a developer </h1>
+<p>MangoTomte.</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hapus_Mango.jpg/220px-Hapus_Mango.jpg"/>
+       <em>this is the most challenging but the most fun so far</em>
+        <p> My hobbie is to play ps5 <strong>and walk in the woods</strong> and watch series</p>
+
+[This is my Axolotl. They are my Boys :-)](https://www.instagram.com/axolotl_brothers_orjantony/)
+
+[When Örjan think mommy is a sleep is he a Ballerina ](https://www.instagram.com/p/ChbITw2KJ_z/)
+         
+
+</body>
+</html>
